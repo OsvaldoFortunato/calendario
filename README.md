@@ -7,12 +7,3 @@ PHP: Utilizado para gerar os dados dos dias do mês e seus respectivos dias da s
 Vue.js 3: Framework JavaScript progressivo para a construção da interface do usuário dinâmica.
 
 Tailwind CSS: Framework CSS utilitário para estilização rápida e responsiva.
-
-Estrutura do Projeto
-calendario/
-├── .idea/                 # Arquivos de configuração da IDE (PhpStorm)
-├── api/
-│   └── dados.php          # Script PHP que fornece os dados do calendário em JSON
-├── js/
-│   └── app.js             # Lógica Vue.js para o frontend do calendário
-└── index.php              # Arquivo HTML principal que carrega a aplicação
